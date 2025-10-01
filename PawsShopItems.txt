@@ -1,0 +1,2 @@
+001 DogChicken AnimalsFoods 1250 1
+002 DogMilk Meals 250 2
