@@ -75,6 +75,7 @@ Use these credentials to test the role-based access:
 
 The project is organized in a standard NetBeans Java application structure:
 
+```
 The Paws Shop/
 ├── build/                 # Compiled .class files (auto-generated)
 ├── nbproject/             # NetBeans project configuration files
@@ -91,7 +92,7 @@ The Paws Shop/
 ├── CashierNewLogins.txt   # Stores Cashier account credentials
 ├── PawsShopItems.txt      # Stores the main item inventory data
 └── manifest.mf            # JAR manifest file
-
+```
 
 ---
 
